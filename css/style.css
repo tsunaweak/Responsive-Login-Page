@@ -80,7 +80,7 @@ body{
     font-size: 15px;
 }
 .wrapper .form-wrapper .form-btn{
-    margin: 20px 0;
+    margin-bottom: 20px;
     padding: 10px 20px;
     float: right;
     color: #fff;
