@@ -70,7 +70,7 @@ body{
     outline: none;
     color: #fff;
     background: transparent;
-    border-bottom: 1px solid #ddd;
+    border-bottom: 2px solid #fff;
     font-weight: 600;
 }
 .wrapper .form-wrapper input:focus + label,
